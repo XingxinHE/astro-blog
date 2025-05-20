@@ -10,8 +10,10 @@
     "pretty": "prettier --write \"./**/*.{js,jsx,mjs,cjs,ts,tsx,json}\""
   },
   "dependencies": {
+    "@astrojs/preact": "^4.0.11",
     "@astrojs/rss": "^4.0.11",
-    "astro": "^5.1.9"
+    "astro": "^5.7.13",
+    "preact": "^10.26.6"
   },
   "devDependencies": {
     "prettier": "^3.5.3"
